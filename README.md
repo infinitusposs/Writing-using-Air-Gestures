@@ -18,6 +18,6 @@ The [report](https://drive.google.com/open?id=19ldbsOgKHPOOy8gDnOchJrlWFlDBY_7a)
 [Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
 
 ## References
-CPPN: http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ \ 
-Google edge TF Lite IOS tutorial: https://cloud.google.com/vision/automl/object-detection/docs/tflite-ios-tutorial \
-Kaggle dataset "Fingers"(): https://www.kaggle.com/koryakinp/fingers (Unused for the final version)
+CPPN: http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ <br />
+Google edge TF Lite IOS tutorial: https://cloud.google.com/vision/automl/object-detection/docs/tflite-ios-tutorial <br />
+Kaggle dataset "Fingers": https://www.kaggle.com/koryakinp/fingers (Unused for the final version)
