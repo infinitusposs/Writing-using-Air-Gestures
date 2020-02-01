@@ -4,7 +4,7 @@
 
 This project is a combination of object detection and image classification based on the IOS edge device. Through the device’s camera, detecting the user’s fingertip and tracking the movement of the fingertip with a black line. And then using image classification to recognize the digits that users have written.
 
-> Instructions: one finger for drawing, two fingers for pasue drawing, three fingers for clearing the screen.
+> Instructions: one finger for drawing, two fingers for pausing drawing, three fingers for clearing the screen.
 
 # ![Image description](https://docs.google.com/uc?export=download&id=1tG3LsgnMbuZcsekFZQT9Ya6_RaFptNnz)
 
@@ -17,3 +17,7 @@ The [report](https://drive.google.com/open?id=19ldbsOgKHPOOy8gDnOchJrlWFlDBY_7a)
 ## Colab Notebook
 [Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
 
+## References
+CPPN: http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ \ 
+Google edge TF Lite IOS tutorial: https://cloud.google.com/vision/automl/object-detection/docs/tflite-ios-tutorial \
+Kaggle dataset "Fingers"(): https://www.kaggle.com/koryakinp/fingers (Unused for the final version)
