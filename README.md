@@ -12,7 +12,7 @@ This project is a combination of object detection and image classification based
 [Demo](https://drive.google.com/open?id=19ldbsOgKHPOOy8gDnOchJrlWFlDBY_7a)
 
 ## Report
-The [report](https://drive.google.com/open?id=19ldbsOgKHPOOy8gDnOchJrlWFlDBY_7a) contains all the details about the project.
+The [report](https://drive.google.com/open?id=1jyEodGnFKugR1xqLvoQct8RwHDqmLDMX) contains all the details about the project.
 
 ## Colab Notebook
 [Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
