@@ -6,7 +6,7 @@ This project is a combination of object detection and image classification based
 
 > Instructions: one finger for drawing, two fingers for pausing drawing, three fingers for clearing the screen.
 
-# ![Image description](https://docs.google.com/uc?export=download&id=1tG3LsgnMbuZcsekFZQT9Ya6_RaFptNnz)
+![Image description](https://docs.google.com/uc?export=download&id=1tG3LsgnMbuZcsekFZQT9Ya6_RaFptNnz)
 
 ## Video demo
 [Demo](https://drive.google.com/open?id=1USy7P8v0_BMWt6moBg2X78Au7JBwgGZI)
