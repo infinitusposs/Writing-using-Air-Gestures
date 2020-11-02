@@ -10,7 +10,7 @@ This project is a combination of object detection and image classification based
 
 ## Video demo
 
-<video controls="true" allowfullscreen="true" poster="README_DATA/poster.png">
+<video width="320" height="240" controls>
   <source src="README_DATA/demo.mp4" type="video/mp4">
 </video>
 
