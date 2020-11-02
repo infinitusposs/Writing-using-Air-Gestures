@@ -14,7 +14,7 @@ This project is a combination of object detection and image classification based
 
 
 ## Report
-<embed src="README_DATA/Final Report.pdf" type="application/pdf">
+<embed src="https://github.com/infinitusposs/Writing-using-Air-Gestures/blob/master/README_DATA/Final%20Report.pdf" type="application/pdf">
 
 ## Colab Notebook
 [Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
