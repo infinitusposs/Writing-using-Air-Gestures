@@ -10,9 +10,7 @@ This project is a combination of object detection and image classification based
 
 ## Video demo
 
-<video width="320" height="240" controls>
-  <source src="README_DATA/demo.mp4" type="video/mp4">
-</video>
+[![](http://img.youtube.com/vi/T3I0ruhP17M/0.jpg)](http://www.youtube.com/watch?v=T3I0ruhP17M "Writing with air gestures - demo")
 
 
 ## Report
