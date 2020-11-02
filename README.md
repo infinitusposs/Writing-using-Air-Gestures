@@ -14,10 +14,10 @@ This project is a combination of object detection and image classification based
 
 
 ## Report
-<embed src="https://github.com/infinitusposs/Writing-using-Air-Gestures/blob/master/README_DATA/Final%20Report.pdf" type="application/pdf">
+[Check report](https://github.com/infinitusposs/Writing-using-Air-Gestures/blob/master/README_DATA/Final%20Report.pdf)
 
 ## Colab Notebook
-[Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
+[Check notebook](https://github.com/infinitusposs/Writing-using-Air-Gestures/blob/master/README_DATA/Final%20Project.ipynb)
 
 ## References
 CPPN: http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ <br />
