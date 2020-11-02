@@ -9,7 +9,12 @@ This project is a combination of object detection and image classification based
 ![image](https://docs.google.com/uc?export=download&id=1tG3LsgnMbuZcsekFZQT9Ya6_RaFptNnz)
 
 ## Video demo
-[Demo](https://drive.google.com/open?id=1USy7P8v0_BMWt6moBg2X78Au7JBwgGZI)
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="README_DATA/demo.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Report
 The [report](https://drive.google.com/open?id=1jyEodGnFKugR1xqLvoQct8RwHDqmLDMX) contains all the details about the project.
