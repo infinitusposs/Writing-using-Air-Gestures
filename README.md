@@ -6,15 +6,16 @@ This project is a combination of object detection and image classification based
 
 > Instructions: one finger for drawing, two fingers for pausing drawing, three fingers for clearing the screen.
 
-![image](https://docs.google.com/uc?export=download&id=1tG3LsgnMbuZcsekFZQT9Ya6_RaFptNnz)
+![image](https://github.com/infinitusposs/Writing-using-Air-Gestures/blob/master/README_DATA/description.png)
 
 ## Video demo
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" poster="README_DATA/poster.png">
     <source src="README_DATA/demo.mp4" type="video/mp4">
   </video>
 </figure>
+
 
 ## Report
 The [report](https://drive.google.com/open?id=1jyEodGnFKugR1xqLvoQct8RwHDqmLDMX) contains all the details about the project.
