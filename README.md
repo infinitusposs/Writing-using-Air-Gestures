@@ -14,7 +14,7 @@ This project is a combination of object detection and image classification based
 
 
 ## Report
-The [report](https://drive.google.com/open?id=1jyEodGnFKugR1xqLvoQct8RwHDqmLDMX) contains all the details about the project.
+<embed src="README_DATA/Final Report.pdf" type="application/pdf">
 
 ## Colab Notebook
 [Google Colab](https://drive.google.com/open?id=1UzoT5bEjTK-3xBk4jSxnT-T3FgIiluXT)
